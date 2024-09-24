@@ -18,4 +18,4 @@ deno task run
 # Feature
 - Audio
 - SlashCommand
-- Receive
+- Receive Events 
